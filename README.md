@@ -12,5 +12,6 @@ A simple Python game where the computer randomly selects a number, and the playe
 2. Make sure you have Python 3 installed.  
 
 git clone 
+ ```bash
 https://github.com/Ayo000157/Guess_number.git
 cd Guess_number
