@@ -11,4 +11,4 @@ A simple Python game where the computer randomly selects a number, and the playe
 1. Clone this repository or download the `guess_number.py` file.  
 2. Make sure you have Python 3 installed.  
 
-git clone https://github.com/Ayo000157/Guess_number.git
+git clone https://github.com/Ayo000157/Guess_number.git cd Guess_number
