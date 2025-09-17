@@ -12,4 +12,4 @@ A simple Python game where the computer randomly selects a number, and the playe
 2. Make sure you have Python 3 installed.  
 
 Clone the repository 
-https://github.com/Ayo000157/Guess_number
+git clone https://github.com/Ayo000157/Guess_number.git
