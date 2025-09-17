@@ -13,4 +13,3 @@ A simple Python game where the computer randomly selects a number, and the playe
 
 git clone https://github.com/Ayo000157/Guess_number.git
 cd Guess_number
-python Guess_number.py
