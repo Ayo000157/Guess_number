@@ -1,2 +1,16 @@
-# Guess_number
-A python script for guessing
+Guess the Number Game
+
+A simple Python game where the computer randomly selects a number, and the player tries to guess it within a limited number of attempts.  
+ Features
+- Random number generation between 1 and 20  
+- User-friendly prompts and feedback  
+
+
+
+ How to Play
+1. Clone this repository or download the `guess_number.py` file.  
+2. Make sure you have Python 3 installed.  
+3. Run the game in your terminal:  
+
+```bash
+python guess_number.py
